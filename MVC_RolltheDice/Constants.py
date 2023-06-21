@@ -1,0 +1,21 @@
+# Constants
+WINDOW_WIDTH = 800
+WINDOW_HEIGHT = 650
+
+VIEW_BAR_VIEW = 'bar'
+VIEW_PIE_VIEW = 'pie'
+VIEW_TEXT_VIEW = 'text'
+
+MIN_TOTAL = 2
+MAX_TOTAL = 12
+MAX_TOTAL_PLUS_1 = MAX_TOTAL + 1
+
+ARIAL_FONT = 'arial'
+MONOSPACES_FONT = 'monospaces'
+
+CENTER = 'center'
+RIGHT = 'right'
+
+BLACK = (0,0,0)
+WHITE = (255,255,255)
+LIGHT_GRAY= (225,225,225)
